@@ -1,0 +1,4 @@
+#Wed Aug 14 21:40:26 EDT 2019
+base.0=/Users/arhamakbar/Desktop/flutterProjects/firestore_profile/firestore_profile/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
